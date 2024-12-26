@@ -20,5 +20,9 @@ JavaScript: For interactivity and dynamic content
 
 ![Screenshot 2024-11-07 073912](https://github.com/user-attachments/assets/47fbe10c-384e-41d9-99a7-37b2dee3543b)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ## Acknowledgments
 Thanks to CodSoft and various online resources for guiding me through this project!
